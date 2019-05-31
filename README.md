@@ -24,14 +24,14 @@ In this challenge, create a web page that presents a styled list of Star Wars ch
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
-- [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
-
+- [ x] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+JS library for building UI via components. React renders our code and modifies the virtual DOM, which in turn modify the actual DOM. 
 - [ ] What does it mean to _think_ in react?
-
+Breaking down everything into components. Storing data via state
 - [ ] Describe state.
-
+State is where we house our data, it's like our memory
 - [ ] Describe props.
-
+Props are variables written like attributes that are passed into child components when we 'call' a child component
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
@@ -49,9 +49,9 @@ Follow these steps for completing your project.
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request.
-- [ ] PM then will count the HW as done by  merging the branch back into master.
+- [ x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [ x] Add your Project Manager as a Reviewer on the Pull-request.
+- [ x] PM then will count the HW as done by  merging the branch back into master.
 
 Please note:
 
